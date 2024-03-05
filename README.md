@@ -21,7 +21,7 @@ SQL Challenge Portfolio
 
 
 ## **This Portfolio is being expanded with all the SQL challenges that I learned so far**
-## Not to be confused with a Portfolio with real Projects
+##   Not to be confused with a Portfolio with real Projects!
 
 
 
